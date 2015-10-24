@@ -59,4 +59,44 @@ less = built in editor. used to open files with the Less editor
 rmdir= remove directory
 rm = removes files or directories
 help = displays further explanation
+
+
 ### 1.4 Forking and Cloning
+
+*all instructions start at github.com with you logged in.
+
+To create a new repo:
+
+1. click the "+" sign on the top left of the home page.
+
+2. Fill out the appropiate fields, most importantly, give your new repo a name,
+
+3. click the green "create repo"  button at the bottom of the page.
+
+
+
+To fork a repo:
+
+
+
+1. go to the repo you wish to fork.
+
+2. click "fork" button on the top right of the repo page
+
+To clone:
+
+1. go to the repo you wish to clone
+
+2. in the middle of the page, on the right hand side, copy the HTTPS clone url.
+
+3. from the command line, go to an arbitrary directory, the directory you wish the repo to exist in.
+
+4. from the desired directory, type the command "git clone <Ctrl+v that copied HTTPS clone url>"
+
+5. you should see "Cloning into <Dir>"
+
+You would want to fork a repo to use all the code that the repo currently has.  From there you can expand upon the code, adding functionality and what not. You would start a new repo if you wanted to start a brand new project from scratch.
+
+
+
+I didnt experience too much trouble with git and github.  I am fairly experienced with them, so I have had a head start.  I wish I had access to this info from the start!
